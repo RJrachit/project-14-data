@@ -1,11 +1,11 @@
 {
   "memories" : {
     {
-      url: "https://github.com/RJrachit/project-14-data/blob/main/IMG_20190714_122652.jpg?raw=true",
-      date: "Jul, 2019",
-      place: "Select City Walk",
-      title: "It get's Weird from Here",
-      description:
+      "url": "https://github.com/RJrachit/project-14-data/blob/main/IMG_20190714_122652.jpg?raw=true",
+      "date": "Jul, 2019",
+      "place": "Select City Walk",
+      "title": "It get's Weird from Here",
+      "description":
         "Select City walk was our hub for sometime. Did we watch the movie then ? But we made some great faces and this is my favourite.",
     },
     {

@@ -1,5 +1,5 @@
 {
-  "memories" : {
+  "memories" : [
     {
       "url": "https://github.com/RJrachit/project-14-data/blob/main/IMG_20190714_122652.jpg?raw=true",
       "date": "Jul, 2019",
@@ -32,5 +32,5 @@
       "description":
         "Look at that pretty smile. Hard not to fall for. PS : I performed some weird step.",
     },
-  }
+  ]
 }
